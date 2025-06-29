@@ -9,7 +9,8 @@ Fake vs Real data training and testing in Python code. Open the [FakeNewsDetecti
   - Out of the 10558 dataset, 5279 are for fake articles and 5279 are for real articles
   - 5234 fake articles for testing, where our model identifies 88.2% of fake news
 
-## Sample Dataset
+## Dataset
+Download the dataset from [fake_or_real_news_dataset.csv](https://drive.google.com/drive/folders/1qTNuAh4YGchkUFE9kYOtix1KtmR7kWrX?usp=sharing)
 
 ![Sample dataset](https://github.com/faiyaz-masrur/fake-news-detection-using-probabilistic-machine-learning-algorithm/blob/2419bb85135244bf2f45469b373b2510290d1305/sampleDataset.png)
 
